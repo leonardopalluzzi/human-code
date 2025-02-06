@@ -31,7 +31,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
     - penna stilografica
     - libri
 - accendere il computer
-    - assicurarzi che ci sia internet
+    - assicurarsi che ci sia internet
 - aprire un browser
     - apire il sito amazon.it
 - scegliere regalo
