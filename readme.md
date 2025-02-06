@@ -12,7 +12,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
         - lampada
         - penna
         - libro
-- definire i reuqisiti per il regalo
+- definire i requisiti per il regalo
     - basso costo
     - spedizione veloce
 - andare su amazon
