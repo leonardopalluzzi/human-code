@@ -20,7 +20,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
         - guarda primo regalo
         - SE il regalo soddisfa i requisiti
             - acquista
-        - ALTRIMETNI
+        - ALTRIMENTI
             - guarda prossimo regalo
 
 
