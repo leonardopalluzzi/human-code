@@ -8,7 +8,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 ### versione 1
 - definire possibili regali
-    - ricordare preferenze di sofia
+    - ricordare preferenze di Silvia
         - lampada
         - penna
         - libro
